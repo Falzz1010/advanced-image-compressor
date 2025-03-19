@@ -10,7 +10,7 @@ import { Slider } from "@/components/ui/slider"
 import { Progress } from "@/components/ui/progress"
 import { Switch } from "@/components/ui/switch"
 import {
-  Select,
+  Select, 
   SelectContent,
   SelectItem,
   SelectTrigger,
