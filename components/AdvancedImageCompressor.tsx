@@ -1,5 +1,5 @@
 'use client'  
-
+ 
 import { useState, useCallback, useEffect } from 'react'
 import { useDropzone } from 'react-dropzone'
 import { X, Upload, Download, Settings, Crop, Filter, Save, Trash2 } from 'lucide-react'
