@@ -11,7 +11,7 @@ import { Progress } from "@/components/ui/progress"
 import { Switch } from "@/components/ui/switch"
 import { 
   Select, 
-  SelectContent, 
+  SelectContent,  
   SelectItem,
   SelectTrigger,
   SelectValue,
